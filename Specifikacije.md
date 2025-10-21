@@ -1,8 +1,7 @@
 # MojaSpletnaStran
 
-![Logotip Moje Spletne Strani](https://example.com/logo.png)
+![Logotip Moje Spletne Strani](https://www.mulc.si/cropped-logo-mulc-spletna-stran-1-jpg/)
 
-## Ekipa za razvoj
 
 | Ime in priimek      | Vloga              |
 |----------------------|--------------------|
@@ -11,6 +10,6 @@
 | Sara Horvat          | Oblikovalka        |
 | Luka Mlakar          | Tester             |
 
-## HTML predstavitev spletne strani
 
-`<h1>MojaSpletnaStran</h1> <p>MojaSpletnaStran je sodobna platforma za deljenje znanja in povezovanje uporabnikov s skupnimi interesi.</p>`
+```html
+<h1>MojaSpletnaStran</h1> <p>MojaSpletnaStran je sodobna platforma za deljenje znanja in povezovanje uporabnikov s skupnimi interesi.</p>`
