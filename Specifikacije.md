@@ -1,6 +1,6 @@
 # MojaSpletnaStran
 
-![Logotip Moje Spletne Strani](https://www.mulc.si/cropped-logo-mulc-spletna-stran-1-jpg/)
+![Logotip Moje Spletne Strani](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/768px-LEGO_logo.svg.png)
 
 
 | Ime in priimek      | Vloga              |
@@ -12,4 +12,5 @@
 
 
 ```html
-<h1>MojaSpletnaStran</h1> <p>MojaSpletnaStran je sodobna platforma za deljenje znanja in povezovanje uporabnikov s skupnimi interesi.</p>`
+<h1>MojaSpletnaStran</h1>
+<p>MojaSpletnaStran je sodobna platforma za deljenje znanja in povezovanje uporabnikov s skupnimi interesi.</p>
