@@ -1,3 +1,6 @@
+## Izgled
+- ena
+- **dca**
 # MojaSpletnaStran
 
 ![Logotip Moje Spletne Strani](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/768px-LEGO_logo.svg.png)
@@ -24,3 +27,4 @@
 4. okroktrt
 
 
+[link](https://www.ikea.com/si/sl/cat/posode-za-shranjevanje-hrane-20606/?filters=f-materials%3A47660)
