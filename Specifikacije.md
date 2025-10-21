@@ -1,1 +1,11 @@
 
+# spletna stran
+![Logotip Moje Spletne Strani](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/768px-LEGO_logo.svg.png)
+
+
+| Ime in priimek      | Vloga              |
+|----------------------|--------------------|
+| Ana Novak            | Vodja projekta     |
+| Marko Kovač          | Razvijalec         |
+| Sara Horvat          | Oblikovalka        |
+| Luka Mlakar          | Tester             |
