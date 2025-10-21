@@ -1,12 +1,18 @@
-#Spletna stran
-![logotip](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mulc.si%2Fcropped-logo-mulc-spletna-stran-1-jpg%2F&psig=AOvVaw0iTzIx5Q8VTFWFteRe1GHX&ust=1761119875178000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMD2tvbotJADFQAAAAAdAAAAABAE "logotip")
+# MojaSpletnaStran
 
-|Sodelujoči|Vloga|
-|----------|------------|
-|Maja|Razvijalec|
+![Logotip Moje Spletne Strani](https://example.com/logo.png)
 
+## Ekipa za razvoj
 
-`<html>
-<h1>Spletna stra</h1>
-<p>To je opis naše spletne strani</p>
-</html>`
+| Ime in priimek      | Vloga              |
+|----------------------|--------------------|
+| Ana Novak            | Vodja projekta     |
+| Marko Kovač          | Razvijalec         |
+| Sara Horvat          | Oblikovalka        |
+| Luka Mlakar          | Tester             |
+
+## HTML predstavitev spletne strani
+
+```html
+<h1>MojaSpletnaStran</h1>
+<p>MojaSpletnaStran je sodobna platforma za deljenje znanja in povezovanje uporabnikov s skupnimi interesi.</p>
