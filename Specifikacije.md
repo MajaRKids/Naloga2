@@ -10,8 +10,17 @@
 | Sara Horvat          | Oblikovalka        |
 | Luka Mlakar          | Tester             |
 
-##test
+## Test
 
 ```html
 <h1>MojaSpletnaStran</h1>
 <p>MojaSpletnaStran je sodobna platforma za deljenje znanja in povezovanje uporabnikov s skupnimi interesi.</p>
+```
+
+## Funkcioanlnosti
+1. Test *zelo ppomembna funkacilnaost* 🏀
+2. pomennbo *tet* 🎻
+3. trtrt
+4. okroktrt
+
+
